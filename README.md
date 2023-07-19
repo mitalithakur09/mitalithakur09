@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **mitalithakur09/mitalithakur09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **thakurmitali092001@gmail.com**
 
-- 📄 Know about my experiences <a href = "file:///C:/Users/Mitali%20Thakur/Downloads/_Mitali_CV.pdf "/>Resume link</a>
+- 📄 Know about my experiences [Resume link](Resume link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/link to be given" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="link to be given" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/mitali-thakur-6028651a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mitali-thakur-6028651a9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
