@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **thakurmitali092001@gmail.com**
 
-- 📄 Know about my experiences <a href = "file:///C:/Users/Mitali%20Thakur/Downloads/_Mitali_CV.pdf "/></a>(Resume link)
+- 📄 Know about my experiences <a href = "file:///C:/Users/Mitali%20Thakur/Downloads/_Mitali_CV.pdf "/>Resume link</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
