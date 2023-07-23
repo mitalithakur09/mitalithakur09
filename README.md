@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **thakurmitali092001@gmail.com**
 
-- 📄 Know about my experiences [Resume link](Resume link)
+- 📄 Know about me file:///C:/MitaliThakur_Portfolio/Home.html?#
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
